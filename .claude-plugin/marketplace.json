@@ -1,0 +1,1 @@
+{"name":"knacco-plugins","description":"Knacco plugins: use the Knacco products you own from your AI tool.","owner":{"name":"Knacco"},"plugins":[{"name":"knacco","source":"./claude","description":"Use the Knacco products you own: list your library, read guides, get download links."}]}

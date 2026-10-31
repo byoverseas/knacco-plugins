@@ -1,0 +1,14 @@
+{
+  "name": "knacco",
+  "displayName": "Knacco",
+  "version": "1.0.0",
+  "description": "Use the Knacco products you own: list your library, read guides, get download links.",
+  "author": { "name": "Knacco", "url": "https://knacco.com" },
+  "homepage": "https://knacco.com/en/help/ai-tools",
+  "license": "MIT",
+  "icon": "assets/knacco-512.png",
+  "documentationUrl": "https://knacco.com/en/help/ai-tools",
+  "supportUrl": "https://knacco.com/en/policies/help",
+  "privacyPolicyUrl": "https://knacco.com/en/policies/privacy",
+  "termsOfServiceUrl": "https://knacco.com/en/policies/terms"
+}

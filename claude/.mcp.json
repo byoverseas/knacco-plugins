@@ -1,0 +1,1 @@
+{ "mcpServers": { "knacco": { "type": "http", "url": "https://knacco.com/api/v1/agent/mcp" } } }
