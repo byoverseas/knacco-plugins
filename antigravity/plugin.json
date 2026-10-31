@@ -1,0 +1,13 @@
+{
+  "$schema": "https://antigravity.google/schemas/v1/plugin.json",
+  "name": "knacco",
+  "displayName": "Knacco",
+  "description": "Use the Knacco products you own: list your library, read guides, get download links.",
+  "version": "1.0.0",
+  "logo": "assets/knacco-512.png",
+  "author": { "name": "Knacco", "url": "https://knacco.com" },
+  "homepage": "https://knacco.com/en/help/ai-tools",
+  "license": "MIT",
+  "keywords": ["knacco", "library", "skills", "workflows", "guides"],
+  "suggestedPrompts": ["What is in my Knacco library?", "Show me the guide for my newest Knacco skill.", "Get the download link for my Knacco workflow files."]
+}
