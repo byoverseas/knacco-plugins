@@ -1,1 +1,22 @@
-{ "name": "knacco", "version": "1.0.0", "description": "Use the Knacco products you own: list your library, read guides, get download links.", "logo": "assets/knacco-512.png" }
+{
+  "name": "knacco",
+  "displayName": "Knacco",
+  "version": "1.0.0",
+  "description": "Use the Knacco products you own: list your library, read guides, get download links.",
+  "author": {
+    "name": "Knacco",
+    "url": "https://knacco.com"
+  },
+  "homepage": "https://knacco.com/en/help/ai-tools",
+  "repository": "https://github.com/byoverseas/knacco-plugins",
+  "license": "MIT",
+  "keywords": [
+    "knacco",
+    "mcp",
+    "library",
+    "skills",
+    "workflows",
+    "guides"
+  ],
+  "logo": "assets/knacco-512.png"
+}
