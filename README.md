@@ -1,9 +1,9 @@
 # Knacco plugins
 
-Use the Knacco products you own from your AI tool: list your library, search it, read a product's guide and get a short-lived download link.
+Bring your Knacco library into your AI tool. Browse and search the skills, workflows, guides and tools you own, read each product's guide in the conversation, and get a secure, short-lived download link for its files. Sign in with your Knacco account, choose how long the connection lasts, and disconnect at any time from your account settings.
 
 - **Sign-in:** the first time you use Knacco, your tool opens a Knacco sign-in page. You approve the connection and choose how long it lasts (30, 60 or 90 days, or no expiry).
-- **Data use:** a connected tool can see the titles of the products you own, their guides and file names, and get 120-second download links. It cannot buy anything, see payment details or change your account. Details: https://knacco.com/en/policies/privacy
+- **Data use:** a connected tool has read-only access to the titles of the products you own, their guides and file names, and short-lived download links. It never sees payment details and cannot change your account. Details: https://knacco.com/en/policies/privacy
 - **Disconnect:** Knacco Account → Billing and security → Connected AI tools → Revoke.
 - **Support:** https://knacco.com/en/policies/help · Help page: https://knacco.com/en/help/ai-tools
 

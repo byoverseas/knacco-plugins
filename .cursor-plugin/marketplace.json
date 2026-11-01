@@ -4,14 +4,14 @@
     "name": "Knacco"
   },
   "metadata": {
-    "description": "Knacco plugins: use the Knacco products you own from your AI tool.",
+    "description": "Knacco plugins: bring your Knacco library into your AI tool.",
     "version": "1.0.0"
   },
   "plugins": [
     {
       "name": "knacco",
       "source": "./cursor",
-      "description": "Use the Knacco products you own: list your library, read guides, get download links."
+      "description": "Bring your Knacco library into your AI tool: browse, search, read guides and download files."
     }
   ]
 }

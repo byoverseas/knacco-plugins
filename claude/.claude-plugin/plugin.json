@@ -2,7 +2,7 @@
   "name": "knacco",
   "displayName": "Knacco",
   "version": "1.0.0",
-  "description": "Use the Knacco products you own: list your library, read guides, get download links.",
+  "description": "Bring your Knacco library into your AI tool: browse, search, read guides and download files.",
   "author": { "name": "Knacco", "url": "https://knacco.com" },
   "homepage": "https://knacco.com/en/help/ai-tools",
   "repository": "https://github.com/byoverseas/knacco-plugins",
