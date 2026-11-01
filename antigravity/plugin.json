@@ -2,7 +2,7 @@
   "$schema": "https://antigravity.google/schemas/v1/plugin.json",
   "name": "knacco",
   "displayName": "Knacco",
-  "description": "Use the Knacco products you own: list your library, read guides, get download links.",
+  "description": "Bring your Knacco library into your AI tool: browse, search, read guides and download files.",
   "version": "1.0.0",
   "logo": "assets/knacco-512.png",
   "author": { "name": "Knacco", "url": "https://knacco.com" },
